@@ -95,7 +95,7 @@
 		<dependency>
 			<groupId>com.zaxxer</groupId>
 			<artifactId>HikariCP</artifactId>
-			<version>3.1.0</version>p_maven-filter-profile
+			<version>3.1.0</version>
 		</dependency>
 	</dependencies>
 
